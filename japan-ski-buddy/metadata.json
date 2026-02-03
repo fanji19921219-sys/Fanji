@@ -1,0 +1,7 @@
+{
+  "name": "Japan Ski Buddy",
+  "description": "A collaborative trip planner and learning guide for skiing and snowboarding in Japan, designed for glove-friendly use on the slopes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
